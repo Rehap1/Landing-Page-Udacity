@@ -16,5 +16,7 @@ For specific, detailed instructions, look at the project instructions in the Uda
 ## Content
 
 1-Dynamic navigation menu based on the sections of the page.
+
 2-Functionality to distinguish the section in view.
+
 3-Functionality to scroll to sections.
